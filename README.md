@@ -15,6 +15,6 @@
 </p>
 
 <p align="center">
-    <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical" />
+    <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SSleimann&layout=compact&theme=radical" />
     <img width="48%"  align="center" src="https://github-readme-stats.vercel.app/api?username=SSleimann&show_icons=true&theme=radical&line_height=36"/>
   </p>
